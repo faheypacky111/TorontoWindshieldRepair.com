@@ -11,7 +11,7 @@
   --hair: rgba(31, 29, 26, .09);
   --red: #B9381F;
   --red-dark: #9A2D17;
-  --ny: #D9A21B; --sc: #3F74B5; --et: #3B8A5A; --ey: #8A5AA6; --mi: #C2557A; --br: #2E8C8C; --mk: #7A6A2E;
+  --ny: #D9A21B; --sc: #3F74B5; --et: #3B8A5A; --ey: #8A5AA6; --mi: #C2557A; --br: #2E8C8C; --mk: #7A6A2E; --rh: #4F6B8A;
   --shadow: 0 1px 2px rgba(31, 29, 26, .04), 0 8px 24px rgba(31, 29, 26, .06);
   --shadow-hover: 0 2px 4px rgba(31, 29, 26, .05), 0 14px 32px rgba(31, 29, 26, .09);
   --r: 16px;
@@ -121,7 +121,7 @@ a.btn.finder-go { width: 100%; }
 .badge { display: inline-block; font-size: .72rem; font-weight: 600; color: var(--red-dark); background: rgba(185, 56, 31, .1); padding: 3px 10px; border-radius: 999px; margin-bottom: 8px; }
 .dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; vertical-align: 1px; flex: none; }
 .dot-north-york { background: var(--ny); } .dot-scarborough { background: var(--sc); } .dot-etobicoke { background: var(--et); } .dot-east-york { background: var(--ey); }
-.dot-mississauga { background: var(--mi); } .dot-brampton { background: var(--br); } .dot-markham { background: var(--mk); }
+.dot-mississauga { background: var(--mi); } .dot-brampton { background: var(--br); } .dot-markham { background: var(--mk); } .dot-richmond-hill { background: var(--rh); }
 .empty { display: none; padding: 18px 20px; background: var(--surface); border-radius: var(--r); color: var(--muted); }
 .small-print { font-size: .86rem; color: var(--muted); }
 
